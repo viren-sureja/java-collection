@@ -1,0 +1,39 @@
+> naming of file: 
+    http://beginwithjava.blogspot.com/2011/01/javas-file-names-and-class-names.html#:~:text=The%20capitalization%20should%20be%20the,that%20does%20care%20about%20capitalization.
+
+> How to run java code ?
+    https://www.tutorialspoint.com/How-to-run-a-java-program
+
+> Every line of code that runs in Java must be inside a class.
+
+> For now, just remember that every Java program has a class name which must match the filename, 
+    and that every program must contain the main() method.
+
+> String (S is capital), use boolean (not bool)
+
+> you can add the final keyword if you don't want others (or yourself) 
+    to overwrite existing values (this will declare the variable as "final" or "constant", 
+    which means unchangeable and read-only)
+
+> All Java variables must be identified with unique names. These unique names are called identifiers.
+
+> The precision of float is only six or seven decimal digits, 
+    while double variables have a precision of about 15 digits. 
+    Therefore it is safer to use double for most calculations.
+
+> String is non-primitive because only class can have methods. 
+    Primitive can not. And String need many functions to be called upon while 
+    processing like substring, indexof, equals, touppercase. 
+    It would not have been possible without making it class.
+
+> https://www.w3schools.com/java/java_type_casting.asp (widening casting is automatic)
+
+> collection interface vs framework: https://youtu.be/rzA7UJ-hQn4?t=176
+
+> diff between arrayList and List: https://www.geeksforgeeks.org/difference-between-list-and-arraylist-in-java/
+
+> why List<int> won't work ? : https://stackoverflow.com/questions/11069429/new-arraylistint-failing-in-java
+
+> generics in java: https://www.geeksforgeeks.org/generics-in-java/
+
+> wrapper class: https://www.geeksforgeeks.org/wrapper-classes-java/
